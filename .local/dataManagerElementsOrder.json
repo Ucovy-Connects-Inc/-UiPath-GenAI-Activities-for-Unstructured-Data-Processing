@@ -1,0 +1,33 @@
+{
+  "Workflows": [
+    {
+      "Path": null,
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Main.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "reasoning&Sequence_1",
+        "similarityScore&Sequence_1",
+        "analysis&Sequence_1",
+        "email&Sequence_1",
+        "namesOfDetectedObjects&Sequence_1",
+        "detectedLanguage&Sequence_1",
+        "topGeneratedText&Sequence_1",
+        "out_category&Sequence_1",
+        "out_text&Sequence_1",
+        "rewrittenContent&Sequence_1",
+        "KeyPhrases&Sequence_1",
+        "ConfidenceLevel&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    }
+  ]
+}
